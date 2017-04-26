@@ -1,0 +1,9 @@
+{"movieId": 1, "rating": 5, "timestamp": 1493194557, "userId": 138494}
+{"movieId": 780, "rating": 1, "timestamp": 1493194573, "userId": 138494}
+{"movieId": 590, "rating": 5, "timestamp": 1493194581, "userId": 138494}
+{"movieId": 1210, "rating": 5, "timestamp": 1493194584, "userId": 138494}
+{"movieId": 648, "rating": 4, "timestamp": 1493194592, "userId": 138494}
+{"movieId": 165, "rating": 4, "timestamp": 1493194609, "userId": 138494}
+{"movieId": 597, "rating": 3, "timestamp": 1493194641, "userId": 138494}
+{"movieId": 1580, "rating": 5, "timestamp": 1493194644, "userId": 138494}
+{"movieId": 231, "rating": 4, "timestamp": 1493194659, "userId": 138494}
